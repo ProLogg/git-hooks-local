@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo rebasing in not allowed in this repostory
+
+exit 1
